@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installations
+
+After cloning the repository, you need to run the following command in the terminal:
+- `npm install react-redux`
+
 ## Available Scripts
 
 In the project directory, you can run:
